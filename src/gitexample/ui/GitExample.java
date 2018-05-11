@@ -20,6 +20,7 @@ public class GitExample {
         uStudent student;
         student = new uStudent();
         student.setsName("James");
+        student.setxId(20);
     }
     
 }
