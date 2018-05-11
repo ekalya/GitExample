@@ -23,6 +23,9 @@ public class GitExample {
         uStudent student2 = new uStudent();
         student2.setsName("King");
         student2.setxId(12);
+        
+        student2.setsName("King 2");
+        student2.setxId(122);
     }
     
 }
