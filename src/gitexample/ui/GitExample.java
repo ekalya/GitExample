@@ -19,6 +19,7 @@ public class GitExample {
     public static void main(String[] args) {
         uStudent student;
         student = new uStudent();
+
         
         uStudent student2 = new uStudent();
         student2.setsName("King");
@@ -26,6 +27,10 @@ public class GitExample {
         
         student2.setsName("King 2");
         student2.setxId(122);
+
+        student.setsName("James");
+        student.setxId(20);
+
     }
     
 }
