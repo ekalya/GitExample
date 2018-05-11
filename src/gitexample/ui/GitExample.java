@@ -30,6 +30,12 @@ public class GitExample {
 
         student.setsName("James");
         student.setxId(20);
+        
+        student.setsName("James 2");
+        student.setxId(200);
+        
+        
+        
 
     }
     
