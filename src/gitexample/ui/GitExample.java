@@ -19,6 +19,7 @@ public class GitExample {
     public static void main(String[] args) {
         uStudent student;
         student = new uStudent();
+        student.setsName("James");
     }
-
+    
 }
